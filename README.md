@@ -10,7 +10,7 @@ The new front panel would be connected to the existing voice and digital board u
 
 ![](https://c1.staticflickr.com/5/4397/37350883412_9683ebab33_c.jpg)
 
-* Mouser part number: 656-WR40PVF50N1
+* Mouser part number: [656-WR40PVF50N1](http://www.mouser.com/ProductDetail/JAE-Electronics/WR-40P-VF50-N1/)
 * JRC Part Number: WR-40P-VF50-N1
 
 Additionally, I would put it into a full synthesizer body, with a MIDI keyboard controller built in. The controller, unlike the 25 key version that Roland supplies, would have pitch/mod wheels and also velocity and aftertouch (channel pressure). Many of the SE-02 sounds really light up with these features, something you might never realize if you only used the 25 key keyboard Roland sells.
