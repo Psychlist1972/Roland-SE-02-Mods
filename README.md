@@ -39,6 +39,7 @@ The A500 Pro supports dedicated power connection, and also has inputs for pedals
 
 ![Roland A500 Pro](https://c1.staticflickr.com/5/4416/23566572048_f228d71372_c.jpg)
 
+I will need to test the A-500 Pro before committing to it being the right controller here. Specifically, I need to see how much I can remove, whether the MIDI, power, and pedal jacks can be easily relocated to the back, etc.
 
 # Panel Design
 
