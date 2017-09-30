@@ -31,6 +31,13 @@ This is unlike other rebuilds where I'm using a Novation SL49 mkII. Despite the 
 
 There were some other contenders for a controller, but they either did not support aftertouch/pressure, or did not have physical (non-USB) MIDI connections.
 
+The A500 Pro also supports dedicated power connection.
+
+![Roland A500 Pro](https://c1.staticflickr.com/5/4370/37161393360_3656193bc2_c.jpg)
+
+![Roland A500 Pro](https://c1.staticflickr.com/5/4416/23566572048_f228d71372_c.jpg)
+
+
 # Panel Design
 
 Again, sticking with something that is more Roland in flavor, I will likely go with Jupiter 8 style (well, classic 80s analog synth style) LED buttons rather than silicone pads. TBD, of course.
