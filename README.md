@@ -31,7 +31,7 @@ This is unlike other rebuilds where I'm using a Novation SL49 mkII. Despite the 
 
 There were some other contenders for a controller, but they either did not support aftertouch/pressure, or did not have physical (non-USB) MIDI connections.
 
-The A500 Pro also supports dedicated power connection.
+The A500 Pro supports dedicated power connection, and also has inputs for pedals. I haven't tested pedal inputs with the SE-02 to see if they map to anything useful.
 
 ![Roland A500 Pro](https://c1.staticflickr.com/5/4370/37161393360_3656193bc2_c.jpg)
 
