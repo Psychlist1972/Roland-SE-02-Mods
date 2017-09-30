@@ -8,5 +8,5 @@ Intention is to create a brand-new front panel, with larger controls. It would b
 
 
 
-Key photos included in this repo. Additional photos here:
+Additional photos here:
 https://www.flickr.com/photos/psychlist1972/albums/72157685399706662
