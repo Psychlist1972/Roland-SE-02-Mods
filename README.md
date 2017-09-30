@@ -17,7 +17,8 @@ Additionally, I would put it into a full synthesizer body, with a MIDI keyboard 
 
 ![](https://c1.staticflickr.com/5/4371/37371051356_6557153450_c.jpg)
 
-
+Existing UI parts (buttons, switches, pots, etc.) from the existing front panel:
+[](Existing%20Panel/Roland%20SE-02%20Panel%20Components.xlsx)
 
 Additional photos here:
 https://www.flickr.com/photos/psychlist1972/albums/72157685399706662
