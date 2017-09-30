@@ -22,3 +22,23 @@ Excel spreadsheet with existing UI parts (buttons, switches, pots, etc.) from th
 
 Additional photos here:
 https://www.flickr.com/photos/psychlist1972/albums/72157685399706662
+
+# Controller Keyboard
+
+I'm likely to use an inexpensive Roland A-500 Pro keyboard controller. 
+
+This is unlike other rebuilds where I'm using a Novation SL49 mkII. Despite the wooden cabinet, I want to have a Roland feel, as opposed to a Moog feel, or trackpad and joystick, so went with the Roland-style paddle for pitch/mod. This keyboard also supports velocity and aftertouch/pressure. Intent would be to remove as much as possible from it, and stick it in a cabinet not much different from either a Moog Sub 37 or Voyager. TBD.
+
+There were some other contenders for a controller, but they either did not support aftertouch/pressure, or did not have physical (non-USB) MIDI connections.
+
+# Panel Design
+
+Again, sticking with something that is more Roland in flavor, I will likely go with Jupiter 8 style (well, classic 80s analog synth style) LED buttons rather than silicone pads. TBD, of course.
+
+Additionally, I'll use flat round style knobs rather than Moog-style. Jupiter 8 style knobs are impossible (or very difficult) to find, so these will be more akin to more modern Roland synths. 
+
+I may also go with sliders for the envelope settings. TBD.
+
+For panel graphics, [Maverick Label](https://www.mavericklabel.com/products/graphic-overlay.html) looks to be a good company. That is the company used for the Meeblip and others. Companies like Synthgraphics, Dave Smith Instruments, Moog, and others all use 10mil lexan with 3m adhesive backing.
+
+
