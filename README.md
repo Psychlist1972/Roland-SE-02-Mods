@@ -8,7 +8,9 @@ Also it's economically not something everyone would want to do, I've decided to 
 
 The new front panel would be connected to the existing voice and digital board using the same mezzanine connector that Roland uses:
 
-![](https://c1.staticflickr.com/5/4397/37350883412_9683ebab33_c.jpg)
+![Mezzanine Connector](https://c1.staticflickr.com/5/4397/37350883412_9683ebab33_c.jpg)
+![Mezzanine Connector](https://c1.staticflickr.com/5/4467/23566663928_13495e024c_c.jpg)
+![Mezzanine Connector](https://c1.staticflickr.com/5/4421/36748155763_2c035b64df_c.jpg)
 
 * Mouser part number: [656-WR40PVF50N1](http://www.mouser.com/ProductDetail/JAE-Electronics/WR-40P-VF50-N1/)
 * JRC Part Number: WR-40P-VF50-N1
