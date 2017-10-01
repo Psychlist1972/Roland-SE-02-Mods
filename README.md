@@ -2,6 +2,8 @@
 
 ![](https://c1.staticflickr.com/5/4470/23565982808_7e845ae9a8_c.jpg)
 
+_This project is in no way affiliated with Roland, Studio Electronics, or anyone else._
+
 The Roland SE-02 is a fantastic-sounding synthesizer that suffers from having a tiny user interface. I've found that adjusting values with the stiff-turning (but surprisingly wobbly) switches leads me to accidentally nudge tiny and very sensitive pots like the oscillator pitch. 
 
 Also it's economically not something everyone would want to do, I've decided to give a go at creating a new front panel. Rather than do something destructive with the existing panel, and solder new pots/controls in place and use flying wires to connect to a panel, I've decided to create a new front panel from scratch.
