@@ -2,7 +2,7 @@
 
 ![](https://c1.staticflickr.com/5/4470/23565982808_7e845ae9a8_c.jpg)
 
-_This project is in no way affiliated with Roland, Studio Electronics, or anyone else._
+*_This project is in no way affiliated with Roland, Studio Electronics, or anyone else._*
 
 The Roland SE-02 is a fantastic-sounding synthesizer that suffers from having a tiny user interface. I've found that adjusting values with the stiff-turning (but surprisingly wobbly) switches leads me to accidentally nudge tiny and very sensitive pots like the oscillator pitch. 
 
