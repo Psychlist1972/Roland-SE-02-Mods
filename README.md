@@ -3,6 +3,8 @@
 ![Synth Mockup](https://c1.staticflickr.com/5/4447/37836820012_5bb31beed7_b.jpg)
 [Larger size image](https://www.flickr.com/photos/psychlist1972/37836820012/)
 
+The SE-02 doesn't really sound like a Moog or a Roland, so I've decided to just run with a more classic Roland design for the synth itself.
+
 ![](https://c1.staticflickr.com/5/4470/23565982808_7e845ae9a8_c.jpg)
 
 ___This project is in no way affiliated with Roland, Studio Electronics, or anyone else.___
@@ -32,27 +34,25 @@ https://www.flickr.com/photos/psychlist1972/albums/72157685399706662
 
 # Controller Keyboard
 
-I'm likely to use an inexpensive Roland A-500 Pro keyboard controller. 
+Roland A-500 Pro keyboard controller is what I've used here. It has a great classic Roland-style pitch/mod wheel, and comes apart quite easily. The pitch/mod wheel also comes out as a single assembly, which is very helpful.
 
-This is unlike other rebuilds where I'm using a Novation SL49 mkII. Despite the wooden cabinet, I want to have a Roland feel, as opposed to a Moog feel, or trackpad and joystick, so went with the Roland-style paddle for pitch/mod. This keyboard also supports velocity and aftertouch/pressure. Intent would be to remove as much as possible from it, and stick it in a cabinet not much different from either a Moog Sub 37 or Voyager. TBD.
+![A 500 Pro Pitch/Mod Wheel](https://c1.staticflickr.com/5/4503/37114598463_f2aa383f5a_c.jpg)
 
-There were some other contenders for a controller, but they either did not support aftertouch/pressure, or did not have physical (non-USB) MIDI connections.
+The keyboard has a channel pressure/aftertouch strip, as well as velocity, and uses a standard 26 pin connector for the matrix.
 
-The A500 Pro supports dedicated power connection, and also has inputs for pedals. I haven't tested pedal inputs with the SE-02 to see if they map to anything useful.
+![A 500 Pro keyboard connector](https://c1.staticflickr.com/5/4469/37114599083_096e0c9b29_c.jpg)
+
+![A 500 Pro pressure connector](https://c1.staticflickr.com/5/4502/37735480516_29e924a5a1_c.jpg)
+
+It's not as nice as a Fatar, but it's available, relatively inexpensive, and easy to work with.
 
 ![Roland A500 Pro](https://c1.staticflickr.com/5/4370/37161393360_3656193bc2_c.jpg)
 
 ![Roland A500 Pro](https://c1.staticflickr.com/5/4416/23566572048_f228d71372_c.jpg)
 
-I will need to test the A-500 Pro before committing to it being the right controller here. Specifically, I need to see how much I can remove, whether the MIDI, power, and pedal jacks can be easily relocated to the back, etc.
-
 # Panel Design
 
-Again, sticking with something that is more Roland in flavor, I will likely go with Jupiter 8 style (well, classic 80s analog synth style) LED buttons rather than silicone pads. TBD, of course.
-
-Additionally, I'll use flat round style knobs rather than Moog-style. Jupiter 8 style knobs are impossible (or very difficult) to find, so these will be more akin to more modern Roland synths. 
-
-I may also go with sliders for the envelope settings. TBD.
+See mockup above
 
 For panel graphics, [Maverick Label](https://www.mavericklabel.com/products/graphic-overlay.html) looks to be a good company. That is the company used for the Meeblip and others. Companies like Synthgraphics, Dave Smith Instruments, Moog, and others all use 10mil lexan with 3m adhesive backing.
 
