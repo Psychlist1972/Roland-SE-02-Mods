@@ -1,5 +1,7 @@
 # Roland SE-02 Mods
 
+![Synth Mockup](https://c1.staticflickr.com/5/4447/37836820012_5bb31beed7_b.jpg)
+
 ![](https://c1.staticflickr.com/5/4470/23565982808_7e845ae9a8_c.jpg)
 
 ___This project is in no way affiliated with Roland, Studio Electronics, or anyone else.___
