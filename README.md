@@ -1,6 +1,7 @@
 # Roland SE-02 Mods
 
 ![Synth Mockup](https://c1.staticflickr.com/5/4447/37836820012_5bb31beed7_b.jpg)
+[Larger size image](https://www.flickr.com/photos/psychlist1972/37836820012/)
 
 ![](https://c1.staticflickr.com/5/4470/23565982808_7e845ae9a8_c.jpg)
 
