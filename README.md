@@ -1,12 +1,5 @@
 # Roland SE-02 Mods
 
-![Synth Mockup](https://c1.staticflickr.com/5/4447/37836820012_5bb31beed7_b.jpg)
-[Larger size image](https://www.flickr.com/photos/psychlist1972/37836820012/)
-
-The SE-02 doesn't really sound like a Moog or a Roland, so I've decided to just run with a more classic Roland design for the synth itself.
-
-![](https://c1.staticflickr.com/5/4470/23565982808_7e845ae9a8_c.jpg)
-
 ___This project is in no way affiliated with Roland, Studio Electronics, or anyone else.___
 
 The Roland SE-02 is a fantastic-sounding synthesizer that suffers from having a tiny user interface. I've found that adjusting values with the stiff-turning (but surprisingly wobbly) switches leads me to accidentally nudge tiny and very sensitive pots like the oscillator pitch. 
@@ -32,6 +25,17 @@ Excel spreadsheet with existing UI parts (buttons, switches, pots, etc.) from th
 Additional photos here:
 https://www.flickr.com/photos/psychlist1972/albums/72157685399706662
 
+# Panel/Synth Design
+
+![Synth Mockup](https://c1.staticflickr.com/5/4447/37836820012_5bb31beed7_b.jpg)
+[Larger size image](https://www.flickr.com/photos/psychlist1972/37836820012/)
+
+The SE-02 doesn't really sound like a Moog or a Roland, so I've decided to just run with a more classic Roland design for the synth itself.
+
+![](https://c1.staticflickr.com/5/4470/23565982808_7e845ae9a8_c.jpg)
+
+For panel graphics, [Maverick Label](https://www.mavericklabel.com/products/graphic-overlay.html) looks to be a good company. That is the company used for the Meeblip and others. Companies like Synthgraphics, Dave Smith Instruments, Moog, and others all use 10mil lexan with 3m adhesive backing.
+
 # Controller Keyboard
 
 Roland A-500 Pro keyboard controller is what I've used here. It has a great classic Roland-style pitch/mod wheel, and comes apart quite easily. The pitch/mod wheel also comes out as a single assembly, which is very helpful.
@@ -49,11 +53,4 @@ It's not as nice as a Fatar, but it's available, relatively inexpensive, and eas
 ![Roland A500 Pro](https://c1.staticflickr.com/5/4370/37161393360_3656193bc2_c.jpg)
 
 ![Roland A500 Pro](https://c1.staticflickr.com/5/4416/23566572048_f228d71372_c.jpg)
-
-# Panel Design
-
-See mockup above
-
-For panel graphics, [Maverick Label](https://www.mavericklabel.com/products/graphic-overlay.html) looks to be a good company. That is the company used for the Meeblip and others. Companies like Synthgraphics, Dave Smith Instruments, Moog, and others all use 10mil lexan with 3m adhesive backing.
-
 
