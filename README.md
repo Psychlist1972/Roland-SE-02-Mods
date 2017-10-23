@@ -59,6 +59,9 @@ It's not as nice as a Fatar, but it's available, relatively inexpensive, and eas
 
 ![Roland A500 Pro](https://c1.staticflickr.com/5/4416/23566572048_f228d71372_c.jpg)
 
+Keyboard controller keyboard connector
+![A 500 Pro keyboard connector](https://c1.staticflickr.com/5/4457/37843063632_660abdc99e_c.jpg)
+
 # Additional Electronics
 
 A more time-consuming part of the project, but one I want to do and then modify/reuse for other projects, is the performance/controller circuit. This will do the keyboard scanning, arpeggiator, additional midi controls for "hidden" SE-02 functions, pedal inputs, etc. It'll also do a MIDI merge to make sure that both the SE-02 front panel controls and the performance controls are sent out through MIDI.
