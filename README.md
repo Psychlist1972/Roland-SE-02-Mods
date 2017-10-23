@@ -8,6 +8,18 @@ The Roland SE-02 is a fantastic-sounding synthesizer that suffers from having a 
 
 Also it's economically not something everyone would want to do, I've decided to give a go at creating a new front panel. Rather than do something destructive with the existing panel, and solder new pots/controls in place and use flying wires to connect to a panel, I've decided to create a new front panel from scratch.
 
+# Panel/Synth Design
+
+![Synth Mockup](https://c1.staticflickr.com/5/4447/37836820012_5bb31beed7_b.jpg)
+[Larger size image](https://www.flickr.com/photos/psychlist1972/37836820012/)
+
+The SE-02 doesn't really sound like a Moog or a Roland, so I've decided to just run with a more classic Roland design for the synth itself.
+
+
+For panel graphics, [Maverick Label](https://www.mavericklabel.com/products/graphic-overlay.html) looks to be a good company. That is the company used for the Meeblip and others. Companies like Synthgraphics, Dave Smith Instruments, Moog, and others all use 10mil lexan with 3m adhesive backing.
+
+# Interfacing the new Controls
+
 The new front panel would be connected to the existing voice and digital board using the same mezzanine connector that Roland uses:
 
 ![Mezzanine Connector](https://c1.staticflickr.com/5/4397/37350883412_9683ebab33_c.jpg)
@@ -27,15 +39,7 @@ Excel spreadsheet with existing UI parts (buttons, switches, pots, etc.) from th
 Additional photos here:
 https://www.flickr.com/photos/psychlist1972/albums/72157685399706662
 
-# Panel/Synth Design
 
-![Synth Mockup](https://c1.staticflickr.com/5/4447/37836820012_5bb31beed7_b.jpg)
-[Larger size image](https://www.flickr.com/photos/psychlist1972/37836820012/)
-
-The SE-02 doesn't really sound like a Moog or a Roland, so I've decided to just run with a more classic Roland design for the synth itself.
-
-
-For panel graphics, [Maverick Label](https://www.mavericklabel.com/products/graphic-overlay.html) looks to be a good company. That is the company used for the Meeblip and others. Companies like Synthgraphics, Dave Smith Instruments, Moog, and others all use 10mil lexan with 3m adhesive backing.
 
 # Controller Keyboard
 
