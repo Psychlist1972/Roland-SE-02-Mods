@@ -10,8 +10,8 @@ Also it's economically not something everyone would want to do, I've decided to 
 
 # Panel/Synth Design
 
-![Synth Mockup](https://c1.staticflickr.com/5/4447/37836820012_5bb31beed7_b.jpg)
-[Larger size image](https://www.flickr.com/photos/psychlist1972/37836820012/)
+![Synth Mockup](https://c1.staticflickr.com/5/4469/37636366590_434e54b81d_c.jpg)
+[Larger size image](https://www.flickr.com/photos/psychlist1972/37636366590/in/album-72157686517261811/)
 
 The SE-02 doesn't really sound like a Moog or a Roland, so I've decided to just run with a more classic Roland design for the synth itself.
 
